@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: salmon;
+    background-color: aquamarine;
+    margin-top: 100px;
+
+}
+
+.fondo {
+    background-color: aquamarine;
+    text-transform: uppercase;
+    margin-top: 100px;
+    color: black;
+
+}
